@@ -16,6 +16,7 @@ h1 , h2{
 }
 li{
     list-style-type: none;
+    padding: 0 15px;
 }
 li:hover{
     color: purple;
